@@ -1,0 +1,54 @@
+
+
+
+.nav{
+  display: flex;
+  align-items: center;
+  height: 45px;
+  width: 100%;
+  background-color: #ffff;
+  border-bottom: solid 1px #dbdbdb;
+  justify-content: center;
+  padding: 14px;
+  margin: 0 auto;
+  
+}
+
+.navbox{
+  display: flex;
+  align-items: center;
+  width: 50%;
+  gap: 20PX;
+  background-color: rgb(255, 255, 255);
+  justify-content: space-between;
+}
+
+
+.icon{
+  width: 26px;
+  height: 26px;
+  
+}
+
+.list{
+  display: flex;
+  gap: 20px;
+  list-style: none;
+}
+
+.logo{
+  width: 110px;
+  height: 29px;
+}
+
+.search{
+  background-color: #efefef;
+  border: none;
+  height: 32px;
+  width: 234px;
+  border-radius: 7px;
+}
+
+.photo{
+  border-radius: 15px;
+}
